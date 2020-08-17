@@ -1,5 +1,3 @@
-Here is a program that I developed for a company that automatically renames the files. 
-Thanks to this program, users select the file they want to change and then the program automatically changes the names of the files.
 Here is a program that I developed for a company that automatically renames the files. Thanks to this program, users select the file they want to change and then the program automatically changes the names of the files.
                       The encoding could not be developed modularly, as each file whose name is changed can be in a different form!
 
